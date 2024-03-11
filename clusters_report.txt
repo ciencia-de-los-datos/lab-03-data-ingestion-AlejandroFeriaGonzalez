@@ -30,7 +30,7 @@ Cluster  Cantidad de     Porcentaje de   Principales palabras clave
    6     51              7,7 %           particle  swarm  optimization,  distribute  generation,  solar   irradiance,
                                          artificial  bee   colonies,   energy   storage   systems,   bat   algorithm,
                                          gravitational search algorithm, distributed  system,  multi-objective  swarm
-                                         optimization  (mopso),  optimal  power-flow  (opf),  load-frequency  control
+                                         optimization  (mopso),  optimal  power-flow  (opf),  load-frequency  control.
 
    7     42              6,3 %           multi-objective   optimization,   energy   storage,    economic    dispatch,
                                          non-dominated  sorting  genetic  algorithm,   sensitive   analysis,   hybrid
