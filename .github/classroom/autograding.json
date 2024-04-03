@@ -1,9 +1,39 @@
 {
   "tests": [
     {
-      "name": "Test",
-      "setup": "pip3 install pyarrow pandas nltk",
-      "run": "python3 tests.py",
+      "name": "Test 01",
+      "setup": "pip3 install pyarrow pandas",
+      "run": "python3 tests.py 01",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 02",
+      "setup": "pip3 install pyarrow pandas",
+      "run": "python3 tests.py 02",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 03",
+      "setup": "pip3 install pyarrow pandas",
+      "run": "python3 tests.py 03",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 04",
+      "setup": "pip3 install pyarrow pandas",
+      "run": "python3 tests.py 04",
       "input": "",
       "output": "",
       "comparison": "exact",
